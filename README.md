@@ -63,7 +63,7 @@ education:   M.Sc. Mathematics @ IIT Delhi
 focus:       AI · ML · Deep Learning · Statistics · Data Science
 
 research:    Statistical Modeling · Machine Learning
-languages:   Python · SQL
+languages:   Python · SQL · R
 tools:       NumPy · Pandas · Scikit-learn · TensorFlow · Keras
 interests:   Computer Vision · Generative AI · Data Analytics
 
