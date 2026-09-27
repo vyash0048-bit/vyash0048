@@ -3,12 +3,13 @@
 <!-- ============================================================ -->
 <div align="center">
 
-# Ashish Patel
+# Yash Verma
 
-#### AI Engineer · Open Source Builder · Author · Technical Content Creator
+#### AI/ML Engineer · Data Scientist · Statistics Researcher · IIT Delhi
+
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Sr.+Principal+Architect+%7C+AI%2FML+%40+Oracle;Building+Agentic+AI+%26+GenAI+at+Scale;Open+Source+Maintainer+%7C+86k%2B+Stars;Author+%26+22%2B+Times+Published+Researcher;GitHub+Star+Club+Member+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=AI%2FML+Engineer+%7C+Data+Scientist;Statistics+%26+Machine+Learning+Researcher;Building+AI+%26+Deep+Learning+Systems;Python+%7C+ML+%7C+Data+Science+%7C+Statistics;M.Sc.+Mathematics+%40+IIT+Delhi" alt="Typing SVG" />
 </a>
 
 </div>
@@ -18,18 +19,9 @@
 <!-- ============================================================ -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishpatel2604/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/imashish2604)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ashishpatel26)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashishpatel.ce.2011)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishpatel.ce.2011@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-verma0048)
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=MfHiCbkAAAAJ&hl=en)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-8307-9425)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ashishpatel26&label=Profile%20Views&color=0077B5&style=for-the-badge)
-[![Followers](https://img.shields.io/github/followers/ashishpatel26?label=Followers&style=for-the-badge&color=0077B5&logo=github)](https://github.com/ashishpatel26?tab=followers)
-[![Stars](https://img.shields.io/badge/Total%20Stars-86k%2B-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashishpatel26)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vyas0048@gmail.com)
 
 </div>
 
