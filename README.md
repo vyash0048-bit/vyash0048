@@ -60,7 +60,7 @@ name:        Yash Verma
 role:        AI/ML Engineer · Data Scientist
 education:   M.Sc. Mathematics @ IIT Delhi
 
-focus:       AI · Machine Learning · Deep Learning · Statistics · Data Science
+focus:       AI · ML · Deep Learning · Statistics · Data Science
 
 research:    Statistical Modeling · Machine Learning
 languages:   Python · SQL
