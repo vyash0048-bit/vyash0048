@@ -20,7 +20,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-verma0048)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vyas0048@gmail.com)
 
 </div>
@@ -32,7 +31,8 @@
 <!-- ============================================================ -->
 <div align="center">
 
-### 🚀 _"I build production-grade AI systems and share the journey — turning 12+ years of ML research into open-source resources that 86k+ developers learn from."_
+### 🚀 *"I build AI/ML and data science projects at the intersection of statistics and mathematics — experimenting with machine learning, deep learning, and research-driven approaches while sharing what I learn through open source."*
+
 
 </div>
 
@@ -42,11 +42,13 @@
 
 ## 👋 Who I Am
 
-I'm **Ashish Patel** — an **AI Engineer** and **Senior Principal Architect (AI/ML & DS)** with **12.5+ years** of specialized AI/ML experience and **14.5+ years** building enterprise-grade, scalable systems.
+I'm **Yash Verma** — an **AI/ML Engineer**, **Data Scientist**, and **Statistics Researcher** currently pursuing an **M.Sc. in Mathematics at IIT Delhi**.
 
-I architect **Agentic AI workflows**, **MCP server enterprise architectures**, and **GenAI/LLMOps** platforms in production across **AWS, Azure, GCP & OCI**. Beyond shipping enterprise systems, I'm an **open-source maintainer** whose curated AI/ML resources have earned **86k+ stars** and a community of **11k+ followers**.
+My interests lie at the intersection of **statistics, mathematics, machine learning, and artificial intelligence**. I work with **Python, data science, machine learning, deep learning, and statistical modeling**, with a focus on turning mathematical and statistical ideas into practical AI/ML solutions.
 
-I also write — as the **author** of _Hands-on Time Series Analytics with Python_, a **22+ times published researcher** (IEEE, Springer, Taylor & Francis), and a **reviewer of 25+ technical books** for Packt, Manning & Springer Nature.
+I'm particularly interested in **Machine Learning, Deep Learning, Statistical Modeling, Computer Vision, Data Analytics, and Generative AI**. Alongside technical projects, I explore research-oriented problems where mathematical and statistical methods can improve the way we model and understand real-world data.
+
+I also enjoy **building projects, exploring open-source technologies, and sharing what I learn through technical content**. My goal is to continuously bridge the gap between **mathematical theory, statistical reasoning, and practical AI systems**.
 
 </td>
 <td width="40%" valign="top">
@@ -54,19 +56,21 @@ I also write — as the **author** of _Hands-on Time Series Analytics with Pytho
 ## ⚡ At a Glance
 
 ```yaml
-name:        Ashish Patel
-role:        Sr. Principal Architect (AI/ML)
-company:     Oracle
-focus:       Agentic AI · GenAI · LLMOps
-experience:  12.5+ yrs in AI/ML
-stars:       86,000+
-followers:   11,000+
-papers:      22+ published
-book:        Time Series w/ Python
-clouds:      AWS · Azure · GCP · OCI
-learning:    Quantum ML
-```
+name:        Yash Verma
+role:        AI/ML Engineer · Data Scientist
+education:   M.Sc. Mathematics @ IIT Delhi
 
+focus: Artificial Intelligence · Machine Learning · Deep Learning · Statistics · Data Science
+
+research:    Statistical Modeling · Machine Learning
+languages:   Python · SQL
+tools:       NumPy · Pandas · Scikit-learn · TensorFlow · Keras
+interests:   Computer Vision · Generative AI · Data Analytics
+
+building:    AI/ML Projects · Research · Open Source
+learning:    Advanced ML · Deep Learning · Statistical Modeling
+```
+·
 </td>
 </tr>
 </table>
